@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OksanaEvstratova/Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OksanaEvstratova/Nodejs/issues"
+  },
+  "homepage": "https://github.com/OksanaEvstratova/Nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "@oksanaevstratova/ajs": "^1.0.0"
+  }
+}
